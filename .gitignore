@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Editor temporary files
+*.swp
+*.swo
+*~
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
